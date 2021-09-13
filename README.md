@@ -1,16 +1,24 @@
-### Hi there 👋
+### E ae, tudo bem? Eu sou o Carlos!
 
-<!--
-**Kdulima/Kdulima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudo na Trybe e aqui guardo tudo sobre os meus trabalhos e projetos!
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Kdulima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kdulima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdulima&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+###### Learning Languages & Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ###### Precisa falar comigo?     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+ 
+  <a href = "mailto:carlosedu151@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carloslima90" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+  
+
+
