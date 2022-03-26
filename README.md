@@ -1,7 +1,7 @@
 ### E ae, tudo bem? Eu sou o Carlos Lima!
 
 Atualmente estudo na Trybe e venho de uma transição de carreira muito maluca, sai da logística e mergulhei de cabeça na área de programação!
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="280" style="max-width: 100%;">
+<img align="right" alt="GIF" src="./people-dev.gif" width="500" height="280" style="max-width: 100%;">
 
 <div>
   <a href="https://github.com/Kdulima">
