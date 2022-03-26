@@ -7,9 +7,8 @@
       Atualmente estudo Desenvolvimento Web na Trybe e também trabalho como dev Front End.
     </p>
     <p>Dá uma olhada no meu portfólio <span>www.kdulima.com</span> 😉</p>
-    
   </div>
-  <img align="right" alt="GIF" src="https://github.com/Kdulima/Kdulima/blob/main/people-dev.gif" width="500" height="280" style="max-width: 100%;">
+  <img align="center" alt="GIF" src="https://github.com/Kdulima/Kdulima/blob/main/people-dev.gif" width="500" height="280" style="max-width: 100%;">
 </div>
 
 <div>
