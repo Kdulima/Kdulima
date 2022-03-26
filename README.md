@@ -1,14 +1,16 @@
 ### E ae, tudo bem? Eu sou o Carlos Lima!
 
-Graduado em Comércio Exterior e Logística, dei uma guinada radical na carreira e hoje sou um programador fullstack apaixonado por desafios! 
-
-Atualmente estudo Desenvolvimento Web na Trybe e também trabalho como dev Front End.
-
-Dá uma olhada no meu portfólio 😉
-
-www.kdulima.com
-
-![people-dev](https://github.com/Kdulima/Kdulima/blob/main/people-dev.gif)
+<div>
+  <div>
+    <p>
+      &nbsp;&nbsp;&nbsp;Graduado em Comércio Exterior e Logística, dei uma guinada radical na carreira e hoje sou um programador fullstack apaixonado por desafios!
+      Atualmente estudo Desenvolvimento Web na Trybe e também trabalho como dev Front End.
+    </p>
+    <p>Dá uma olhada no meu portfólio <span>www.kdulima.com</span> 😉</p>
+    
+  </div>
+  <img align="right" alt="GIF" src="https://github.com/Kdulima/Kdulima/blob/main/people-dev.gif" width="500" height="280" style="max-width: 100%;">
+</div>
 
 <div>
   <a href="https://github.com/Kdulima">
