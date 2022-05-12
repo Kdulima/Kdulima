@@ -4,7 +4,7 @@
   <div>
     <p>
       &nbsp;&nbsp;&nbsp;Graduado em Comércio Exterior e Logística, dei uma guinada radical na carreira e hoje sou um programador fullstack apaixonado por desafios!
-      Atualmente estudo Desenvolvimento Web na Trybe e também trabalho como dev Front End.
+      Atualmente estudo Desenvolvimento Web na Trybe e também trabalho como dev Front-end.
     </p>
     <p>Dá uma olhada no meu portfólio <span>www.kdulima.com</span> 😉</p>
   </div>
